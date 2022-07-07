@@ -1,4 +1,3 @@
-# Courses
 🐳 Collection of courses I taken
 
 - [Distributed Systems](https://github.com/Sorosliu1029/6.824) MIT-6.824, WIP
