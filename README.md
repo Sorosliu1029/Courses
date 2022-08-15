@@ -1,6 +1,6 @@
 🐳 Collection of courses I taken
 
-- [Distributed Systems](https://github.com/Sorosliu1029/6.824) MIT-6.824, WIP
+- [Distributed Systems](https://github.com/Sorosliu1029/6.824) MIT-6.824, 2022 Summer
 
   [![Sorosliu1029/6.824 - GitHub](https://gh-card.dev/repos/Sorosliu1029/6.824.svg)](https://github.com/Sorosliu1029/6.824)
 
