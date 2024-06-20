@@ -1,5 +1,9 @@
 🐳 Collection of courses I taken
 
+- [Structure and Interpretation of Computer Programs](https://github.com/Sorosliu1029/SICP) MIT-6.001/MIT-6.037, WIP
+
+  [![Sorosliu1029/SICP - GitHub](https://gh-card.dev/repos/Sorosliu1029/SICP.svg)](https://github.com/Sorosliu1029/SICP)
+
 - [Distributed Systems](https://github.com/Sorosliu1029/6.824) MIT-6.824, 2022 Summer
 
   ~~[Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824)~~ private repo
