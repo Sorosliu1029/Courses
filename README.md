@@ -1,24 +1,28 @@
 🐳 Collection of courses I taken
 
+- [Linear Algebra](https://github.com/Sorosliu1029/18.06) MIT 18.06, 2025 Spring
+
+  ~~[Sorosliu1029/18.06](https://github.com/Sorosliu1029/18.06)~~ private repo, with all homework done
+
 - [Distributed Systems](https://github.com/Sorosliu1029/6.824) MIT-6.824, 2022 Summer
 
-  ~~[Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824)~~ private repo
+  ~~[Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824)~~ private repo, with all labs done
 
 - [Operating System Engineering](https://github.com/Sorosliu1029/6.S081) MIT-6.S081, 2022 Spring
 
-  ~~[Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081)~~ private repo
+  ~~[Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081)~~ private repo, with all labs done
 
 - [Introduction to Algorithms](https://github.com/Sorosliu1029/MIT6.006) MIT-6.006, 2021 Fall
 
-  ~~[Sorosliu1029/MIT6.006](https://github.com/Sorosliu1029/MIT6.006)~~ private repo
+  ~~[Sorosliu1029/MIT6.006](https://github.com/Sorosliu1029/MIT6.006)~~ private repo, with all problem sets done
 
 - [Database Systems](https://github.com/Sorosliu1029/Database-Systems) CMU-15445, 2021 Spring
 
-  ~~[Sorosliu1029/Database-Systems](https://github.com/Sorosliu1029/Database-Systems)~~ private repo
+  ~~[Sorosliu1029/Database-Systems](https://github.com/Sorosliu1029/Database-Systems)~~ private repo, with all projects done
 
 - [CSAPP](https://github.com/Sorosliu1029/CSAPP-Labs) CMU-15213, 2020 Fall
 
-  ~~[Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs)~~ private repo
+  ~~[Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs)~~ private repo, with all labs done
 
 - [Deep Learning AI](https://github.com/Sorosliu1029/Deep-Learning-AI) deeplearning.ai (Coursera Specialization) , 2017 Fall
 
