@@ -1,5 +1,9 @@
 🐳 Collection of courses I taken
 
+- [Data Structures](https://github.com/Sorosliu1029/CS61B) UCB CS61B, 2025 Spring
+
+  ~~[Sorosliu1029/CS61B](https://github.com/Sorosliu1029/CS61B)~~ private repo, with all labs & projects done (except project 3 phase 2)
+
 - [Linear Algebra](https://github.com/Sorosliu1029/18.06) MIT 18.06, 2025 Spring
 
   ~~[Sorosliu1029/18.06](https://github.com/Sorosliu1029/18.06)~~ private repo, with all homework done
