@@ -1,5 +1,9 @@
 🐳 Collection of courses I taken
 
+- [Full Stack Open](https://github.com/Sorosliu1029/Full-Stack-Open) The University of Helsinki, 2025 Summer
+
+  ~~[Sorosliu1029/Full-Stack-Open](https://github.com/Sorosliu1029/Full-Stack-Open)~~ private repo, with part 0-3, 6, 7 done
+
 - [Data Structures](https://github.com/Sorosliu1029/CS61B) UCB CS61B, 2025 Spring
 
   ~~[Sorosliu1029/CS61B](https://github.com/Sorosliu1029/CS61B)~~ private repo, with all labs & projects done (except project 3 phase 2)
