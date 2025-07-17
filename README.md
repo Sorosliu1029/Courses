@@ -1,5 +1,10 @@
 🐳 Collection of courses I taken
 
+- [Parallel Computing](https://github.com/Sorosliu1029/CS149) Stanford, 2025 Spring-Summer
+
+  ~~[Sorosliu1029/CS149](https://github.com/Sorosliu1029/CS149)~~ private repo, with all assignments and written assignments done (except assignment 4)
+
+
 - [Full Stack Open](https://github.com/Sorosliu1029/Full-Stack-Open) The University of Helsinki, 2025 Summer
 
   ~~[Sorosliu1029/Full-Stack-Open](https://github.com/Sorosliu1029/Full-Stack-Open)~~ private repo, with part 0-3, 6, 7 done
