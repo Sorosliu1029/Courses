@@ -1,47 +1,49 @@
 🐳 Collection of courses I taken
 
-- [Parallel Computing](https://github.com/Sorosliu1029/CS149) Stanford, 2025 Spring-Summer
+- [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
+
+- [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford, 2025 Spring-Summer
 
   ~~[Sorosliu1029/CS149](https://github.com/Sorosliu1029/CS149)~~ private repo, with all assignments and written assignments done (except assignment 4)
 
 
-- [Full Stack Open](https://github.com/Sorosliu1029/Full-Stack-Open) The University of Helsinki, 2025 Summer
+- [Full Stack Open](https://fullstackopen.com/en/) The University of Helsinki, 2025 Summer
 
   ~~[Sorosliu1029/Full-Stack-Open](https://github.com/Sorosliu1029/Full-Stack-Open)~~ private repo, with part 0-3, 6, 7 done
 
-- [Data Structures](https://github.com/Sorosliu1029/CS61B) UCB CS61B, 2025 Spring
+- [Data Structures](https://sp21.datastructur.es/index.html) UCB CS61B, 2025 Spring
 
   ~~[Sorosliu1029/CS61B](https://github.com/Sorosliu1029/CS61B)~~ private repo, with all labs & projects done (except project 3 phase 2)
 
-- [Linear Algebra](https://github.com/Sorosliu1029/18.06) MIT 18.06, 2025 Spring
+- [Linear Algebra](https://web.mit.edu/18.06/www/) MIT 18.06, 2025 Spring
 
   ~~[Sorosliu1029/18.06](https://github.com/Sorosliu1029/18.06)~~ private repo, with all homework done
 
-- [Distributed Systems](https://github.com/Sorosliu1029/6.824) MIT-6.824, 2022 Summer
+- [Distributed Systems](https://pdos.csail.mit.edu/6.824/) MIT-6.824, 2022 Summer
 
   ~~[Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824)~~ private repo, with all labs done
 
-- [Operating System Engineering](https://github.com/Sorosliu1029/6.S081) MIT-6.S081, 2022 Spring
+- [Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/) MIT-6.S081, 2022 Spring
 
   ~~[Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081)~~ private repo, with all labs done
 
-- [Introduction to Algorithms](https://github.com/Sorosliu1029/MIT6.006) MIT-6.006, 2021 Fall
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) MIT-6.006, 2021 Fall
 
   ~~[Sorosliu1029/MIT6.006](https://github.com/Sorosliu1029/MIT6.006)~~ private repo, with all problem sets done
 
-- [Database Systems](https://github.com/Sorosliu1029/Database-Systems) CMU-15445, 2021 Spring
+- [Database Systems](https://15445.courses.cs.cmu.edu/fall2020/) CMU-15445, 2021 Spring
 
   ~~[Sorosliu1029/Database-Systems](https://github.com/Sorosliu1029/Database-Systems)~~ private repo, with all projects done
 
-- [CSAPP](https://github.com/Sorosliu1029/CSAPP-Labs) CMU-15213, 2020 Fall
+- [CSAPP](http://csapp.cs.cmu.edu/3e/labs.html) CMU-15213, 2020 Fall
 
   ~~[Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs)~~ private repo, with all labs done
 
-- [Deep Learning AI](https://github.com/Sorosliu1029/Deep-Learning-AI) deeplearning.ai (Coursera Specialization) , 2017 Fall
+- [Deep Learning AI](https://www.deeplearning.ai/) deeplearning.ai (Coursera Specialization) , 2017 Fall
 
   [![Sorosliu1029/Deep-Learning-AI - GitHub](https://gh-card.dev/repos/Sorosliu1029/Deep-Learning-AI.svg)](https://github.com/Sorosliu1029/Deep-Learning-AI)
 
-- [Natural Language Processing](https://github.com/Sorosliu1029/Natural_Language_Processing) FDU, 2016 Fall
+- [Natural Language Processing](https://nlp.fudan.edu.cn/nlpen/main.htm) FDU, 2016 Fall
 
   [![Sorosliu1029/Natural_Language_Processing - GitHub](https://gh-card.dev/repos/Sorosliu1029/Natural_Language_Processing.svg)](https://github.com/Sorosliu1029/Natural_Language_Processing)
 
@@ -57,7 +59,7 @@
 
   [![Sorosliu1029/Computer_Graphics - GitHub](https://gh-card.dev/repos/Sorosliu1029/Computer_Graphics.svg)](https://github.com/Sorosliu1029/Computer_Graphics)
 
-- [The Fundamentals of Computing](https://github.com/Sorosliu1029/The_Fundamentals_of_Computing) Rice University (Coursera Specialization), 2016 Spring
+- [The Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) Rice University (Coursera Specialization), 2016 Spring
 
   [![Sorosliu1029/The_Fundamentals_of_Computing - GitHub](https://gh-card.dev/repos/Sorosliu1029/The_Fundamentals_of_Computing.svg)](https://github.com/Sorosliu1029/The_Fundamentals_of_Computing)
 
@@ -89,7 +91,7 @@
 
   [![Sorosliu1029/Matlab - GitHub](https://gh-card.dev/repos/Sorosliu1029/Matlab.svg)](https://github.com/Sorosliu1029/Matlab)
 
-- [Machine Learning by Andrew Ng](https://github.com/Sorosliu1029/Machine_Learning) Stanford University (Coursera Course), 2015 Fall
+- [Machine Learning by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) Stanford University (Coursera Course), 2015 Fall
 
   [![Sorosliu1029/Machine_Learning - GitHub](https://gh-card.dev/repos/Sorosliu1029/Machine_Learning.svg)](https://github.com/Sorosliu1029/Machine_Learning)
 
