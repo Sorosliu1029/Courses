@@ -4,7 +4,7 @@
 
 - [ ] [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
 
-- [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford, 2025 Spring-Summer
+- [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford CS149, 2025 Spring-Summer
 
   ~~[Sorosliu1029/CS149](https://github.com/Sorosliu1029/CS149)~~ private repo, with all assignments and written assignments done (except assignment 4)
 
