@@ -1,6 +1,8 @@
 🐳 Collection of courses I taken
 
-- [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
+- [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) MIT, 2025 Fall
+
+- [ ] [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
 
 - [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford, 2025 Spring-Summer
 
