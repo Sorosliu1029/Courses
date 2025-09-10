@@ -1,13 +1,12 @@
 🐳 Collection of courses I taken
 
-- [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) MIT, 2025 Fall
-
 - [ ] [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) MIT, 2025 Fall
 
 - [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford CS149, 2025 Spring-Summer
 
   ~~[Sorosliu1029/CS149](https://github.com/Sorosliu1029/CS149)~~ private repo, with all assignments and written assignments done (except assignment 4)
-
 
 - [Full Stack Open](https://fullstackopen.com/en/) The University of Helsinki, 2025 Summer
 
@@ -25,7 +24,7 @@
 
   ~~[Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824)~~ private repo, with all labs done
 
-- [Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/) MIT-6.S081, 2022 Spring
+- [Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/) MIT-6.S081 (renamed to 6.1810 after 2021), 2022 Spring
 
   ~~[Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081)~~ private repo, with all labs done
 
