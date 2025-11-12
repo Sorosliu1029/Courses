@@ -6,39 +6,39 @@
 
 - [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford CS149, 2025 Spring-Summer
 
-  ~~[Sorosliu1029/CS149](https://github.com/Sorosliu1029/CS149)~~ private repo, with all assignments and written assignments done (except assignment 4)
+  [![Sorosliu1029/CS149 - GitHub](https://gh-card.dev/repos/Sorosliu1029/CS149.svg)](https://github.com/Sorosliu1029/CS149)
 
 - [Full Stack Open](https://fullstackopen.com/en/) The University of Helsinki, 2025 Summer
 
-  ~~[Sorosliu1029/Full-Stack-Open](https://github.com/Sorosliu1029/Full-Stack-Open)~~ private repo, with part 0-3, 6, 7 done
+  [![Sorosliu1029/Full-Stack-Open - GitHub](https://gh-card.dev/repos/Sorosliu1029/Full-Stack-Open.svg)](https://github.com/Sorosliu1029/Full-Stack-Open)
 
 - [Data Structures](https://sp21.datastructur.es/index.html) UCB CS61B, 2025 Spring
 
-  ~~[Sorosliu1029/CS61B](https://github.com/Sorosliu1029/CS61B)~~ private repo, with all labs & projects done (except project 3 phase 2)
+  [![Sorosliu1029/CS61B - GitHub](https://gh-card.dev/repos/Sorosliu1029/CS61B.svg)](https://github.com/Sorosliu1029/CS61B)
 
 - [Linear Algebra](https://web.mit.edu/18.06/www/) MIT 18.06, 2025 Spring
 
-  ~~[Sorosliu1029/18.06](https://github.com/Sorosliu1029/18.06)~~ private repo, with all homework done
+  [![Sorosliu1029/18.06 - GitHub](https://gh-card.dev/repos/Sorosliu1029/18.06.svg)](https://github.com/Sorosliu1029/18.06)
 
 - [Distributed Systems](https://pdos.csail.mit.edu/6.824/) MIT-6.824, 2022 Summer
 
-  ~~[Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824)~~ private repo, with all labs done
+  [![Sorosliu1029/6.824 - GitHub](https://gh-card.dev/repos/Sorosliu1029/6.824.svg)](https://github.com/Sorosliu1029/6.824)
 
 - [Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/) MIT-6.S081 (renamed to 6.1810 after 2021), 2022 Spring
 
-  ~~[Sorosliu1029/6.S081](https://github.com/Sorosliu1029/6.S081)~~ private repo, with all labs done
+  [![Sorosliu1029/6.S081 - GitHub](https://gh-card.dev/repos/Sorosliu1029/6.S081.svg)](https://github.com/Sorosliu1029/6.S081)
 
 - [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) MIT-6.006, 2021 Fall
 
-  ~~[Sorosliu1029/MIT6.006](https://github.com/Sorosliu1029/MIT6.006)~~ private repo, with all problem sets done
+  [![Sorosliu1029/MIT6.006 - GitHub](https://gh-card.dev/repos/Sorosliu1029/MIT6.006.svg)](https://github.com/Sorosliu1029/MIT6.006)
 
 - [Database Systems](https://15445.courses.cs.cmu.edu/fall2020/) CMU-15445, 2021 Spring
 
-  ~~[Sorosliu1029/Database-Systems](https://github.com/Sorosliu1029/Database-Systems)~~ private repo, with all projects done
+  [![Sorosliu1029/Database-Systems - GitHub](https://gh-card.dev/repos/Sorosliu1029/Database-Systems.svg)](https://github.com/Sorosliu1029/Database-Systems)
 
 - [CSAPP](http://csapp.cs.cmu.edu/3e/labs.html) CMU-15213, 2020 Fall
 
-  ~~[Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs)~~ private repo, with all labs done
+  [![Sorosliu1029/CSAPP-Labs - GitHub](https://gh-card.dev/repos/Sorosliu1029/CSAPP-Labs.svg)](https://github.com/Sorosliu1029/CSAPP-Labs)
 
 - [Deep Learning AI](https://www.deeplearning.ai/) deeplearning.ai (Coursera Specialization) , 2017 Fall
 
