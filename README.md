@@ -2,6 +2,18 @@
 
 - [ ] [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
 
+- [Systems for Machine Learning](https://docs.google.com/document/u/0/d/1ugErrTNL28r_PrFfQ3QEvSgJaaEP35KaYAyWShWhyUI/mobilebasic) GT, 2025 Fall
+
+  [![Sorosliu1029/CS8803-SMR - GitHub](https://gh-card.dev/repos/Sorosliu1029/CS8803-SMR.svg)](https://github.com/Sorosliu1029/CS8803-SMR)
+
+- [GPU Hardware and Software](https://gatech.instructure.com/courses/479382/assignments/syllabus) GT, 2025 Fall
+
+  [CS8803-GPU](https://github.com/Sorosliu1029/CS8803-GPU), private repo due to GT academic honor code
+
+- [Database System Implementation](https://faculty.cc.gatech.edu/~jarulraj/courses/6422-f25/) GT, 2025 Fall
+
+  [CS6422](https://github.com/Sorosliu1029/CS6422), private repo due to GT academic honor code
+
 - [DB Sys Concepts & Design](https://kexinrong.github.io/fa25-cs6400/) GT, 2025 Fall
 
   [![Sorosliu1029/CS6400 - GitHub](https://gh-card.dev/repos/Sorosliu1029/CS6400.svg)](https://github.com/Sorosliu1029/CS6400)
