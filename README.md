@@ -2,6 +2,10 @@
 
 - [ ] [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
 
+- [DB Sys Concepts & Design](https://kexinrong.github.io/fa25-cs6400/) GT, 2025 Fall
+
+  [![Sorosliu1029/CS6400 - GitHub](https://gh-card.dev/repos/Sorosliu1029/CS6400.svg)](https://github.com/Sorosliu1029/CS6400)
+
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) MIT, 2025 Fall
 
 - [Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall24/) Stanford CS149, 2025 Spring-Summer
