@@ -1,6 +1,12 @@
 🐳 Collection of courses I taken
 
-- [ ] [An Introduction to the Theory and Practice of Pocker](https://hopkinspokercourse.com/) JHU, 2025 Summer
+- [Distributed Computing](https://gatech.instructure.com/courses/501410) GT, 2026 Spring
+
+- [HW SW Co-Design ML Systems](https://tinyurl.com/8803-HML-Spring-2026) GT, 2026 Spring
+
+- [High Performance Computer Architecture](https://gatech.instructure.com/courses/513476) GT, 2026 Spring
+
+- [Intro to Grad Algorithms](https://gatech.instructure.com/courses/500768) GT, 2026 Spring
 
 - [Systems for Machine Learning](https://docs.google.com/document/u/0/d/1ugErrTNL28r_PrFfQ3QEvSgJaaEP35KaYAyWShWhyUI/mobilebasic) GT, 2025 Fall
 
