@@ -6,7 +6,9 @@
 
 - [High Performance Computer Architecture](https://gatech.instructure.com/courses/513476) GT, 2026 Spring
 
-- [Intro to Grad Algorithms](https://gatech.instructure.com/courses/500768) GT, 2026 Spring
+- [Intro to Grad Algorithms](https://edstem.org/us/courses/47529/lessons) GT, 2026 Spring
+
+  [![Sorosliu1029/CS6515 - GitHub](https://gh-card.dev/repos/Sorosliu1029/CS6515.svg)](https://github.com/Sorosliu1029/CS6515)
 
 - [Systems for Machine Learning](https://docs.google.com/document/u/0/d/1ugErrTNL28r_PrFfQ3QEvSgJaaEP35KaYAyWShWhyUI/mobilebasic) GT, 2025 Fall
 
