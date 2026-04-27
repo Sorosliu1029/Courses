@@ -4,6 +4,8 @@
 
 - [HW SW Co-Design ML Systems](https://tinyurl.com/8803-HML-Spring-2026) GT, 2026 Spring
 
+  [CS8803-HML](https://github.com/Sorosliu1029/CS8803-HML), private repo due to GT academic honor code
+
 - [High Performance Computer Architecture](https://gatech.instructure.com/courses/513476) GT, 2026 Spring
 
 - [Intro to Grad Algorithms](https://edstem.org/us/courses/47529/lessons) GT, 2026 Spring
