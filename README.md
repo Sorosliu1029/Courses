@@ -1,5 +1,9 @@
 🐳 Collection of courses I taken
 
+- [Introduction to Deep Learning](https://introtodeeplearning.com/) MIT, 2026 Summer
+
+  [![Sorosliu1029/6.S191 - GitHub](https://gh-card.dev/repos/Sorosliu1029/6.S191.svg)](https://github.com/Sorosliu1029/6.S191)
+
 - [Distributed Computing](https://gatech.instructure.com/courses/501410) GT, 2026 Spring
 
   [CS7210](https://github.com/Sorosliu1029/CS7210/), private repo due to GT academic honor code
