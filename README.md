@@ -1,5 +1,9 @@
 🐳 Collection of courses I taken
 
+- [Haskell MOOC](https://haskell.mooc.fi/) University of Helsinki, 2026 Summer
+
+  [![Sorosliu1029/Haskell-MOOC - GitHub](https://gh-card.dev/repos/Sorosliu1029/Haskell-MOOC.svg)](https://github.com/Sorosliu1029/Haskell-MOOC)
+
 - [Introduction to Deep Learning](https://introtodeeplearning.com/) MIT, 2026 Summer
 
   [![Sorosliu1029/6.S191 - GitHub](https://gh-card.dev/repos/Sorosliu1029/6.S191.svg)](https://github.com/Sorosliu1029/6.S191)
