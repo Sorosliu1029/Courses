@@ -1,5 +1,13 @@
 🐳 Collection of courses I taken
 
+- [Adv Operating Systems](https://gatech.instructure.com/courses/533084) GT, 2026 Fall
+
+  [CS6210](https://github.com/Sorosliu1029/CS6210), private repo due to GT academic honor code
+
+- [Artificial Intelligence](https://gatech.instructure.com/courses/535854) GT, 2026 Fall
+
+  [CS6601](https://github.com/Sorosliu1029/CS6601), private repo due to GT academic honor code
+
 - [Haskell MOOC](https://haskell.mooc.fi/) University of Helsinki, 2026 Summer
 
   [![Sorosliu1029/Haskell-MOOC - GitHub](https://gh-card.dev/repos/Sorosliu1029/Haskell-MOOC.svg)](https://github.com/Sorosliu1029/Haskell-MOOC)
